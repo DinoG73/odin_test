@@ -1,7 +1,5 @@
 Well here I'Am trying to learn CS, Linux, FrontEnd, BackEnd, Networks to improve my self and my english.
 more test over visualcode
-<<<<<<< HEAD
+
 more change from sublime text
-=======
-making some changes for testing
->>>>>>> 1d6f1473610c0c7209baea9972d8197502f00116
+
